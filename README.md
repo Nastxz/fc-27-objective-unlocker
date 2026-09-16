@@ -1,6 +1,6 @@
 # FC 27 Objective Unlocker
 
-A Chrome and Brave extension that opens Ultimate Team objectives when the EA FC 27 Web App's **FC Hub** tile is locked.
+A Chrome extension that opens Ultimate Team objectives when the EA FC 27 Web App's **FC Hub** tile is locked.
 
 It loads an available objectives category and opens it using the Web App's built-in navigation. This workaround has been confirmed working by a user on FC 27. It does not unlock server-disabled content, and the separate Season Pass service may remain unavailable.
 
@@ -8,7 +8,7 @@ It loads an available objectives category and opens it using the Web App's built
 
 1. On this repository's GitHub page, click **Code → Download ZIP**.
 2. Extract the ZIP to a folder you will keep.
-3. Open `chrome://extensions` in Chrome or `brave://extensions` in Brave.
+3. Open `chrome://extensions` in Chrome.
 4. Turn on **Developer mode**.
 5. Click **Load unpacked** and select the extracted folder containing `manifest.json`.
 6. Open the [EA FC Web App](https://www.ea.com/ea-sports-fc/ultimate-team/web-app/) and log in to your club.
