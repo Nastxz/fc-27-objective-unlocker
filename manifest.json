@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "FC 27 Objective Unlocker",
+  "version": "0.4.0",
+  "description": "Try the FC Web App's built-in Objectives route when its FC Hub tile is locked.",
+  "minimum_chrome_version": "95",
+  "permissions": ["activeTab", "scripting"],
+  "action": { "default_popup": "popup.html", "default_title": "FC 27 Objective Unlocker" }
+}

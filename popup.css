@@ -1,0 +1,11 @@
+:root { color-scheme: dark; font-family: system-ui, sans-serif; }
+body { width: 320px; margin: 0; padding: 24px; background: #121c29; color: #f3f7fa; }
+.badge { color: #8de3ba; font-size: 10px; font-weight: 750; letter-spacing: 1px; }
+h1 { font-size: 24px; line-height: 1.15; margin: 14px 0; }
+p { font-size: 13px; line-height: 1.55; color: #c9d4df; }
+button { width: 100%; padding: 13px; margin: 8px 0; border: 0; border-radius: 8px; background: #92efbd; color: #10241b; font: 700 13px system-ui; cursor: pointer; }
+button:disabled { opacity: .5; cursor: wait; }
+button:focus-visible { outline: 3px solid white; outline-offset: 3px; }
+#retry { background: #d8e7f7; }
+#status { padding: 12px; background: #203043; border-radius: 8px; min-height: 60px; }
+.fine { font-size: 11px; color: #a5b6c9; }
